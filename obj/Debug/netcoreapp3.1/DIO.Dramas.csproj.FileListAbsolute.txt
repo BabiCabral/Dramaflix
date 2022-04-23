@@ -1,0 +1,14 @@
+C:\workspace\Dio-Desafio-GitHub-PrimeiroRepositorio\Desafios de Projeto\Desafio2\Dramaflix\bin\Debug\netcoreapp3.1\DIO.Dramas.exe
+C:\workspace\Dio-Desafio-GitHub-PrimeiroRepositorio\Desafios de Projeto\Desafio2\Dramaflix\bin\Debug\netcoreapp3.1\DIO.Dramas.deps.json
+C:\workspace\Dio-Desafio-GitHub-PrimeiroRepositorio\Desafios de Projeto\Desafio2\Dramaflix\bin\Debug\netcoreapp3.1\DIO.Dramas.runtimeconfig.json
+C:\workspace\Dio-Desafio-GitHub-PrimeiroRepositorio\Desafios de Projeto\Desafio2\Dramaflix\bin\Debug\netcoreapp3.1\DIO.Dramas.runtimeconfig.dev.json
+C:\workspace\Dio-Desafio-GitHub-PrimeiroRepositorio\Desafios de Projeto\Desafio2\Dramaflix\bin\Debug\netcoreapp3.1\DIO.Dramas.dll
+C:\workspace\Dio-Desafio-GitHub-PrimeiroRepositorio\Desafios de Projeto\Desafio2\Dramaflix\bin\Debug\netcoreapp3.1\DIO.Dramas.pdb
+C:\workspace\Dio-Desafio-GitHub-PrimeiroRepositorio\Desafios de Projeto\Desafio2\Dramaflix\obj\Debug\netcoreapp3.1\DIO.Dramas.csproj.AssemblyReference.cache
+C:\workspace\Dio-Desafio-GitHub-PrimeiroRepositorio\Desafios de Projeto\Desafio2\Dramaflix\obj\Debug\netcoreapp3.1\DIO.Dramas.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Dio-Desafio-GitHub-PrimeiroRepositorio\Desafios de Projeto\Desafio2\Dramaflix\obj\Debug\netcoreapp3.1\DIO.Dramas.AssemblyInfoInputs.cache
+C:\workspace\Dio-Desafio-GitHub-PrimeiroRepositorio\Desafios de Projeto\Desafio2\Dramaflix\obj\Debug\netcoreapp3.1\DIO.Dramas.AssemblyInfo.cs
+C:\workspace\Dio-Desafio-GitHub-PrimeiroRepositorio\Desafios de Projeto\Desafio2\Dramaflix\obj\Debug\netcoreapp3.1\DIO.Dramas.csproj.CoreCompileInputs.cache
+C:\workspace\Dio-Desafio-GitHub-PrimeiroRepositorio\Desafios de Projeto\Desafio2\Dramaflix\obj\Debug\netcoreapp3.1\DIO.Dramas.dll
+C:\workspace\Dio-Desafio-GitHub-PrimeiroRepositorio\Desafios de Projeto\Desafio2\Dramaflix\obj\Debug\netcoreapp3.1\DIO.Dramas.pdb
+C:\workspace\Dio-Desafio-GitHub-PrimeiroRepositorio\Desafios de Projeto\Desafio2\Dramaflix\obj\Debug\netcoreapp3.1\DIO.Dramas.genruntimeconfig.cache

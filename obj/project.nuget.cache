@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZJho7r+lhT9ZpEdzUlFE+IGMxVosiwJ4PLpafJd1bfdr5U95+Pj0mJPteOXDGaxIEYcg2Qvr3JDirsT60NYl4A==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\Dio-Desafio-GitHub-PrimeiroRepositorio\\Desafios de Projeto\\Desafio2\\Dramaflix\\DIO.Dramas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cabra\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\cabra\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\cabra\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\cabra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
